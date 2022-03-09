@@ -5,7 +5,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(tree_CHIROPTERA)
+#' @usage data(tree_RODENTIA)
 #'
 #' @format An object of class \code{"phylo"}.
 #'
@@ -17,5 +17,5 @@
 #' @source \href{tree}{Nexus file}
 #'
 #' @examples
-#' data(tree_CHIROPTERA)
-"tree_CHIROPTERA"
+#' data(tree_RODENTIA)
+"tree_RODENTIA"
