@@ -1,6 +1,6 @@
 #' Phylogenetic consensus pruned tree for bats
 #'
-#' Data is a pruned consensus tree for the CHIROPTERA order. The consensus is a sample from
+#' Data is a pruned consensus tree for the RODENTIA order. The consensus is a sample from
 #' verLife
 #'
 #' @docType data
