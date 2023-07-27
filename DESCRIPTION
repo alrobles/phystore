@@ -1,11 +1,12 @@
 Package: phystore
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Title: A convenient data R package for mammal phylogenetic trees
+Version: 1.0.0
+Author: Angel Luis Robles Fernandez
+Maintainer: Angel Luis Robles Fernandez <a.l.robles.fernandez@gmail.com>
+Description: A set of mammal phylogenetic trees for easy consultation and
+    manipulation. It contains al mammals phylogenetic tree as well as the two
+    main mammal orders, Rodentia and Chiroptera. 
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
